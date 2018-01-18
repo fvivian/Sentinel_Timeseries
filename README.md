@@ -7,6 +7,6 @@ Second, the data is loaded into another jupyter notebook script. With a little b
 In order to get your own Web Map Service (WMS) instance running (i.e. your own ID), you need to register on https://apps.sentinel-hub.com/configurator/#/ (click on login and then choose "don't have an account yet").
 
 When starting the notebook via command line, add the following option:
-'''
+'''cmd
 jupyter notebook --NotebookApp.iopub_data_rate_limit=1e9
 '''
