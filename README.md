@@ -1,6 +1,6 @@
 # Sentinel Timeseries
 
-## These notebooks serves as tool for a quick development of Sentinel time lapses. They are not optimized for performance nor is the imagery visually enhanced.
+### These notebooks serve as tool for a quick development of Sentinel time lapses. They are not optimized for performance nor is the imagery visually enhanced.
 
 ### Environment:
 - Windwos 10 (64-bit)
