@@ -1,14 +1,14 @@
 # Sentinel Timeseries
 
 ### These notebooks are used in the following environment:
-Windwos 10 (64-bit)
-Python 3.6.3 (Anaconda)
+- Windwos 10 (64-bit)
+- Python 3.6.3 (Anaconda)
 
 ### Modules:
-requests
-json
-PIL
-pyproj
+- requests
+- json
+- PIL
+- pyproj
 
 First, the timeseries data is downloaded and stored locally in order to provide easier data manipulation and video fiddling.
 
