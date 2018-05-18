@@ -1,6 +1,8 @@
 # Sentinel Timeseries
 
-### These notebooks are used in the following environment:
+## These notebooks serves as tool for a quick development of Sentinel time lapses. They are not optimized for performance nor is the imagery visually enhanced.
+
+### Environment:
 - Windwos 10 (64-bit)
 - Python 3.6.3 (Anaconda)
 
